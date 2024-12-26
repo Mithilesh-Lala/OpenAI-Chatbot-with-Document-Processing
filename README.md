@@ -18,7 +18,7 @@ This project implements a chatbot using OpenAI's GPT-3.5-turbo model, with the a
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/openai-chatbot.git
+   git clone https://github.com/Mithilesh-Lala/OpenAI-Chatbot-with-Document-Processing.git
    cd openai-chatbot
    ```
 
